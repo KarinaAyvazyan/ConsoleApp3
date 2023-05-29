@@ -123,7 +123,7 @@ namespace ConsoleApp3
             {
 
                
-          
+          a=10+20;
 
             Console.WriteLine(a*b);
              
